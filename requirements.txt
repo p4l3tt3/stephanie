@@ -2,7 +2,7 @@ sounder
 pyaudio
 PyDispatcher
 eyeD3
-python-magic-bin==0.4.14
+python-magic-bin
 pygame
 gTTS
 gtts-token
@@ -24,3 +24,4 @@ psutil
 tweepy
 Pyowm
 urllib3
+vosk
